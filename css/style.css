@@ -1,0 +1,9 @@
+.container-fluid{
+    border: 2px solid black;
+}
+.row{
+    border: 2px solid red;
+}
+.col10,.col-2{
+    border: 2px solid yellow;
+}
